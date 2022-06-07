@@ -12,8 +12,8 @@ This project displays a map of the area around MIT and Harvard. Upon clicking th
 5. Click on the 'Show stops between MIT and Harvard' button to start the bus marker movement.
 
 ### Roadmap of future improvements: 
--Change the marker icon and create a custom marker for the individual bus stops.
--As the bus marker moves to each bus stop, a new marker will be left at the bus stop location that displays the stops' name, route number, and link to the bus schedule for that stop.
+*Change the marker icon and create a custom marker for the individual bus stops.
+*As the bus marker moves to each bus stop, a new marker will be left at the bus stop location that displays the stops' name, route number, and link to the bus schedule for that stop.
 
 ### License information: 
 MIT license
