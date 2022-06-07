@@ -29,10 +29,12 @@ var marker = new mapboxgl.Marker()
   .setLngLat([-71.093729, 42.359244])
   .addTo(map);
 
+
+
 // counter here represents the index of the current bus stop
 let counter = 0;
 function move() {
-  // The function marker.setLngLat() updates the marker coordinates every 1000ms..
+
   setTimeout(() =>{
     if (counter >= busStops.length) return;
     marker.setLngLat(busStops[counter]);
@@ -42,6 +44,12 @@ function move() {
 }
 
 
+
 if (typeof module !== 'undefined') {
   module.exports = { move };
 }
+
+
+//ideas: add so marker at each stop.
+//marker moves through each stop.
+//can hover over stops
