@@ -2,7 +2,7 @@
 # Real Time Bus Tracker
 
 ## Description of the project: 
-This project displays a map of the area around MIT and Harvard. Upon clicking the button, a marker moves through the various bus stops between MIT and Harvard. I have adjusted the styling from the original code.
+This project displays a map of the area around MIT and Harvard. Upon clicking the button, a marker moves through the various bus stops between MIT and Harvard. 
 
 ## How to Run: 
 1. Download the HTML, CSS, and JS files locally.
